@@ -4,7 +4,7 @@ This project implements a **Hidden Markov Model (HMM)** from scratch to solve th
 
 ## Project Overview
 
-An HMM is a statistical model used to describe the evolution of observable events that are influenced by internal, "hidden" factors. The Viterbi algorithm is the standard dynamic programming approach used to find the "Viterbi path"—the most likely sequence of hidden states—given the observed data.
+An HMM is a statistical model used to describe the evolution of observable events that are influenced by internal, "hidden" factors. The Viterbi algorithm is the standard dynamic programming approach used to find the "Viterbi path" the most likely sequence of hidden states given the observed data.
 
 ### Core Concepts:
 * **Hidden States:** The actual process we want to discover (e.g., Weather: Sunny/Rainy).
