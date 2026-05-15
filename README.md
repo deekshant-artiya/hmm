@@ -14,8 +14,7 @@ An HMM is a statistical model used to describe the evolution of observable event
 
 ## Files Included
 
-* `viterbi_analysis.py`: A clean, object-oriented Python implementation using NumPy for matrix operations.
-* `Assignment_HMM_and_Viterbi.ipynb`: Documentation and experimental results.
+* `viterbi_analysis.ipynb`: A clean, object-oriented Python implementation using NumPy for matrix operations.
 * `README.md`: Project description and setup instructions.
 
 ## How It Works
