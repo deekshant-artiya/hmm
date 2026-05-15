@@ -22,7 +22,7 @@ An HMM is a statistical model used to describe the evolution of observable event
 The implementation follows a professional **Object-Oriented Programming (OOP)** structure. The `HMMViterbi` class handles the model parameters and executes the algorithm in three phases:
 
 1.  **Initialization**: Calculates the starting probabilities for the first observation.
-2.  **The Forward Pass (Trellis)**: Fills a probability matrix (trellis) using the Markov property—where the current state depends only on the previous state.
+2.  **The Forward Pass (Trellis)**: Fills a probability matrix (trellis) using the Markov property where the current state depends only on the previous state.
 3.  **Backtracking**: Once the full sequence is processed, the algorithm "walks backward" through the most likely path to determine the hidden state sequence.
 
 ## Tools & Libraries
