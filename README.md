@@ -35,5 +35,5 @@ The implementation follows a professional **Object-Oriented Programming (OOP)** 
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/deekshant-artiya/hmm.git](https://github.com/deekshant-artiya/hmm.git)
+   git clone https://github.com/deekshant-artiya/hmm
    cd hmm
