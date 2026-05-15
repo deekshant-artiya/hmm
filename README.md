@@ -27,7 +27,7 @@ The implementation follows a professional **Object-Oriented Programming (OOP)** 
 
 ## Tools & Libraries
 
-* **Python 3.x**
+* **Python**
 * **NumPy**: Used for efficient matrix storage and `argmax` operations.
 
 ## Running the Project
